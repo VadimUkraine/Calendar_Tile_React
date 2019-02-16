@@ -1,0 +1,18 @@
+.month_wrap{
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	width: 242px;
+
+}
+.month_title{
+	padding: 4px 0;
+	margin: 0 0 5px 0;
+	height: 28px;
+	line-height: 20px;
+	font-size: 22px;
+
+}
+.month_dates_weeks_wrap{
+	display: flex;
+}

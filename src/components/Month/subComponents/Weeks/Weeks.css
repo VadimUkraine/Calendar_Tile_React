@@ -1,0 +1,23 @@
+.weeks_wrap{
+	padding: 0;
+	margin: 0;
+}
+.weeks_item{
+	list-style-type: none;
+	width: 30px;
+	height: 30px;
+	border-right: 2px solid black;
+	line-height: 30px;
+	color: blue;
+}
+
+.weeks_item_title{
+	list-style-type: none;
+	width: 30px;
+	height: 30px;
+	border-right: 2px solid black;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	line-height: 30px;	
+	
+}

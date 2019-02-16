@@ -1,0 +1,32 @@
+.add_event_wrap{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+
+}
+.add_event_select{
+	outline: 0;
+	border: 1px solid grey;
+	height: 30px;
+}
+#add_event_feild{
+	height: 30px;
+	padding: 0 5px 0 7px;
+	outline: 0;
+	width: 170px;
+}
+.add_event_btn{
+	outline: 0;
+	cursor: pointer;
+	height: 30px;
+}
+
+
+@media (max-width: 460px) {
+  .add_event_wrap{
+  	flex-direction: column;
+  	align-items: center;
+  	height: 100px;
+  	justify-content: space-between;
+  }
+}

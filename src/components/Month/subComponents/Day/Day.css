@@ -1,0 +1,29 @@
+.days_item{
+	list-style-type: none;
+	width: 30px;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.days_item_events{
+	list-style-type: none;
+	width: 30px;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+	cursor: pointer;
+	background-color: #778899;
+	color: #fff;
+	border-bottom-right-radius: 15px;
+	border-top-left-radius: 17px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}

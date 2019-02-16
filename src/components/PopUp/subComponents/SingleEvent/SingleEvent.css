@@ -1,0 +1,40 @@
+.event_list_item{
+	list-style-type: none;
+	height: 30px;
+	line-height: 30px;
+	cursor: pointer;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 12px;
+
+}
+.event_list_btns{
+
+}
+.event_list_select{
+	outline: 0;
+	border: 1px solid grey;
+	height: 33px;
+}
+#event_list_feild{
+	height: 30px;
+	padding: 0 5px 0 7px;
+	outline: 0;
+	margin-left: 25px;
+	width: 170px;
+}
+
+.event_list_edit_btn, .event_list_delete_btn{
+	outline: 0;
+	cursor: pointer;
+	height: 35px;
+}
+
+@media (max-width: 460px) {
+  .event_list_item{
+  	flex-direction: column;
+  	align-items: center;
+  	height: 110px;
+  	justify-content: space-between;
+  }
+}

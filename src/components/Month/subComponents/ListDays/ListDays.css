@@ -1,0 +1,54 @@
+.days_wrap{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+}
+
+.m_1{
+	width: 30px;
+	list-style-type: none;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+}
+.m_2{
+	width: 60px;
+	list-style-type: none;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+}
+.m_3{
+	width: 90px;
+	list-style-type: none;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+}
+.m_4{
+	width: 120px;
+	list-style-type: none;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+}
+.m_5{
+	width: 150px;
+	list-style-type: none;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+}
+.m_6{
+	width: 180px;
+	list-style-type: none;
+	height: 30px;
+	border: 1px solid transparent;
+	line-height: 29px;
+}
+.default{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
